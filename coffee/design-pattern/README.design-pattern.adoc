@@ -1,0 +1,10 @@
+# Objectifs
+
+Mettre à disposition rapidement des patterns en coffeescript
+
+# Sources
+
+Les exemples sont tirés du livre
+Learning Javascript Design Patterns, A Javascript and jQuery Developer's Guide
+Addy Osmani
+
