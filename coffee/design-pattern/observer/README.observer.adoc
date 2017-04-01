@@ -1,0 +1,21 @@
+# Observer
+
+Un sujet notifie une liste d'observateur.
+Chacun d'eux procède à une mise à jour contextuelle.
+
+# Implémentation Simple
+
+[source,coffeescript]
+.observer.coffee
+----
+include::sample/observer.coffee[]
+----
+
+.output
+----
+subject: Observers, I'm asking you to say my name !
+
+hello: Hello Heisenberg
+dummy: Hum... something happened?
+recruit: Sir ! Your name is Heisenberg ! Sir !
+----

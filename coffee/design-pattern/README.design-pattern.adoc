@@ -1,10 +1,12 @@
-# Objectifs
+# Design pattern
 
-Mettre à disposition rapidement des patterns en coffeescript
+## Objectif
 
-# Sources
+La compréhension et la mise à disposition d'exemples & de templates en coffeescript
 
-Les exemples sont tirés du livre
+## Sources
+
+Les exemples sont adaptés librement du livre
 Learning Javascript Design Patterns, A Javascript and jQuery Developer's Guide
 Addy Osmani
 
