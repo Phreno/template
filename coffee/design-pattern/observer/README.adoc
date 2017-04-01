@@ -8,9 +8,9 @@ Chacun d'eux procède à une mise à jour contextuelle.
 
 include file:: {empty}
 +
-----
+--
 include::sample/observer.coffee[]
-----
+--
 
 .output
 ----
