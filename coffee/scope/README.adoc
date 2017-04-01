@@ -1,0 +1,5 @@
+# Scope
+
+## Objectif
+
+Appréhender le concept de classe.
