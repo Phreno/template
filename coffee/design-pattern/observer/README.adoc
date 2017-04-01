@@ -1,15 +1,15 @@
 # Observer
 
+## Définition
+
 Un sujet notifie une liste d'observateur.
 Chacun d'eux procède à une mise à jour contextuelle.
 
-# Implémentation Simple
+## Utilisation
 
-
-include file:: {empty}
-+
+.Implémentation simple
 --
-include::sample/observer.coffee[]
+include::sample/observer.coffee[exemple]
 --
 
 .output
