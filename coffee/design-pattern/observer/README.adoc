@@ -8,7 +8,7 @@ Chacun d'eux procède à une mise à jour contextuelle.
 [source,coffeescript]
 .observer.coffee
 ----
-include::./sample/observer.coffee[]
+include::sample/observer.coffee[]
 ----
 
 .output
