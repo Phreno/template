@@ -5,8 +5,9 @@ Chacun d'eux procède à une mise à jour contextuelle.
 
 # Implémentation Simple
 
-[source,coffeescript]
-.observer.coffee
+
+include file:: {empty}
++
 ----
 include::sample/observer.coffee[]
 ----
