@@ -9,7 +9,7 @@ Chacun d'eux procède à une mise à jour contextuelle.
 
 .Implémentation simple
 --
-include::sample/observer.coffee[exemple]
+include::sample/observer.coffee[]
 --
 
 .output
