@@ -1,9 +1,10 @@
-singleton = (()->
+class Singleton
+  constructor:()->
 
-  # -------------------
-  # Store the reference
-  # -------------------
-  instance=null
+    # -------------------
+    # Store the reference
+    # -------------------
+    @instance=null
 
   # --------------------
   # Update the reference

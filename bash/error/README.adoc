@@ -1,0 +1,25 @@
+# Gestion des erreurs
+
+## Description
+
+Permet un affichage plus détaillé des erreurs.
+
+## Utilisation
+
+Pour utiliser, il suffit de l'importer en début de script.
+
+.Import du script
+[source, bash]
+----
+source error.profile
+----
+
+.Source du script
+[format="csv"]
+|====
+Source, http://stackoverflow.com/a/13099228/4585214
+Date, edited Dec 16 '13 at 9:55
+Révision, 7
+Autheur, Luca Borrione
+|====
+
