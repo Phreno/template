@@ -1,0 +1,30 @@
+.Informations générales
+[format="csv"]
+|======================
+Rédacteur, K3rn€l P4n1k
+Date, 01/01/1970
+|======================
+
+# Titre
+
+
+.Objectif du document
+
+.Intention
+
+# Usage
+
+.Signature
+[source, bash]
+----
+    script <obligatoire> [optionnel]
+----
+
+.Arguments
+[format="csv"]
+|====
+*obligatoire*, description
+_optionnel_, description
+|====
+
+# Commentaires
