@@ -2,51 +2,51 @@
 [format="csv"]
 |======================
 Rédacteur, K3rn€l P4n1k
-Date, #date
-État, #etat
+Date, @date
+État, @etat
 |======================
 
-# #titre
+# @titre
 
 .Objectif du document
-Documente l'usage du script `#topic`
+Documente l'usage du script `@topic`
 
 .Description générale
-#description_generale
+@description_generale
 
 .Intention
-#intention
+@intention
 
 # Usage
 
 .Signature
 [source, bash]
 ----
-#signature
+@signature
 ----
 
 .Arguments
 [format="csv"]
 |====
-#arguments
+@arguments
 |====
 
 .Exemple avec le nombre 7
 [source, bash]
 ----
-#exemple
+@exemple
 ----
 
 .Résultat
 ----
-#resultat
+@resultat
 ----
 
 # Commentaires
-#commentaire
+@commentaire
 
 # Références
 [format="csv"]
 |====
-#reference
+@reference
 |====
