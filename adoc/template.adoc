@@ -17,7 +17,17 @@ Documente l'usage du script `@topic`
 .Intention
 @intention
 
-# Usage
+## Dépendences
+
+.Liste des dépendences
+[format="csv", options="header"]
+|====
+Description, Dépendences, Téléchargement
+@dependances
+|====
+
+
+## Usage
 
 .Signature
 [source, bash]
@@ -42,10 +52,10 @@ Documente l'usage du script `@topic`
 @resultat
 ----
 
-# Commentaires
+## Commentaires
 @commentaire
 
-# Références
+## Références
 [format="csv"]
 |====
 @reference
